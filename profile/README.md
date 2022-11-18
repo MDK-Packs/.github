@@ -1,0 +1,14 @@
+# Welcome to MDK-Packs
+
+This organization created by the [Arm Keil tools](https://www.arm.com/products/development-tools/embedded-and-software/keil-mdk) team contains software packs in [Open-CMSIS-Pack](https://open-cmsis-pack.github.io/Open-CMSIS-Pack-Spec/main/html/index.html) format. Most of the packs are board support packs for various hardware vendors. Some other packs that offer software components are also available. For a full list of repositories in this organization, please refer to [this list](./MDK-Packs.md).
+
+## Other Arm organizations on GitHub
+
+There are other organizations on GitHub that are created by [Arm](https://www.arm.com):
+
+| Organization | Description|
+|--------------|------------|
+| [Arm-Software](https://github.com/ARM-software/) | Home of CMSIS, Arm Virtual Hardware, and many other software related projects. |
+| [Arm-Examples](https://github.com/ARM-Examples/) | Contains example projects that can be directly imported into [Keil Studio](https://studio.keil.arm.com). |
+| [Arm Developer Ecosystem](https://github.com/ArmDeveloperEcosystem/) | Contains example projects that are developed by Arm or ecosystem partners. |
+| [Arm Labs](https://github.com/Arm-Labs/) | Contains experimental projects for various purposes. |
