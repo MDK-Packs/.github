@@ -2,7 +2,7 @@
 
 This organization created by the [Arm Keil tools](https://www.arm.com/products/development-tools/embedded-and-software/keil-mdk) team contains software packs in [Open-CMSIS-Pack](https://open-cmsis-pack.github.io/Open-CMSIS-Pack-Spec/main/html/index.html) format. Most of the packs are board support packs for development boards from various hardware vendors. Other packs contain software components that can be used in a CMSIS-Pack based development flow.
 
-For a full list of repositories in this organization, please refer to [this list](./MDK-Packs.md).
+For a full list of repositories in this organization, please refer to [this list](./profile/MDK-Packs.md).
 
 ## Further Arm organizations
 
