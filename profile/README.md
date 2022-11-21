@@ -12,5 +12,4 @@ There are other GitHub organizations that are created by [Arm](https://www.arm.c
 |--------------|------------|
 | [Arm Developer Ecosystem](https://github.com/ArmDeveloperEcosystem/) | Contains example projects that are developed by Arm or ecosystem partners. |
 | [Arm Examples](https://github.com/ARM-Examples/) | Contains example projects that can be directly imported into [Keil Studio](https://studio.keil.arm.com). |
-| [Arm Labs](https://github.com/Arm-Labs/) | Contains experimental projects for various purposes. |
 | [Arm Software](https://github.com/ARM-software/) | Home of CMSIS, Arm Virtual Hardware, and many other software related projects. |
